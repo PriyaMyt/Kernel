@@ -1,0 +1,8 @@
+whenever connecting change the client address and compile once again
+
+no need to run the client 
+  create a coredump
+  add path for coredump 
+  kernel will invoke the c 
+
+core file will be created in /tmp file
